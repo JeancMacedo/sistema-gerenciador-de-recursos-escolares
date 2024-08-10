@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2024-07-26" view-index="0" gantt-divider-location="900" resource-divider-location="300" version="3.2.3247" locale="pt_BR">
+    <description/>
+    <view zooming-state="default:0" id="gantt-chart">
+        <field id="tpd3" name="Nome" width="361" order="0"/>
+        <field id="tpd4" name="Data inicial" width="133" order="1"/>
+        <field id="tpd5" name="Data final" width="138" order="2"/>
+        <field id="tpd7" name="Concluído" width="72" order="3"/>
+        <field id="tpd6" name="Duração" width="72" order="4"/>
+        <field id="tpd1" name="Prioridade" width="72" order="5"/>
+        <field id="tpd13" name="Recursos" width="51" order="6"/>
+        <option id="filter.completedTasks" value="false"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Nome" width="210" order="0"/>
+        <field id="1" name="Função" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Termo de abertura do projeto" color="#8cb6ce" meeting="false" start="2024-03-22" duration="6" complete="0" thirdDate="2024-03-22" thirdDate-constraint="1" expand="true"/>
+        <task id="1" name="Contato estabelecido com a instituição externa" color="#8cb6ce" meeting="false" start="2024-04-05" duration="6" complete="0" thirdDate="2024-04-05" thirdDate-constraint="1" expand="true"/>
+        <task id="2" name="Início do código" color="#8cb6ce" meeting="false" start="2024-06-21" duration="6" complete="0" thirdDate="2024-06-14" thirdDate-constraint="1" expand="true">
+            <task id="3" name="Portugol e C" color="#8cb6ce" meeting="false" start="2024-06-21" duration="6" complete="0" thirdDate="2024-06-21" thirdDate-constraint="1" expand="true"/>
+            <task id="20" name="Início do Fluxograma" color="#8cb6ce" meeting="false" start="2024-06-21" duration="6" complete="0" thirdDate="2024-06-21" thirdDate-constraint="1" expand="true"/>
+        </task>
+        <task id="14" name="Definição de Escopo" color="#8cb6ce" meeting="false" start="2024-06-28" duration="6" complete="0" thirdDate="2024-06-28" thirdDate-constraint="1" expand="true"/>
+        <task id="4" name="Continuação do Documento" color="#8cb6ce" meeting="false" start="2024-06-28" duration="6" complete="0" thirdDate="2024-06-28" thirdDate-constraint="1" expand="true"/>
+        <task id="5" name="Estrutura Analítica do Projeto e Cronograma do Projeto" color="#8cb6ce" meeting="false" start="2024-07-12" duration="6" complete="0" thirdDate="2024-07-12" thirdDate-constraint="1" expand="true"/>
+        <task id="6" name="Plano de Trabalho e Carta de Envolvimento de Comunidade Externa" color="#8cb6ce" meeting="false" start="2024-07-19" duration="6" complete="0" thirdDate="2024-07-19" thirdDate-constraint="1" expand="true"/>
+        <task id="7" name="Manutenção de Códigos e Fluxograma" color="#8cb6ce" meeting="false" start="2024-07-26" duration="6" complete="0" thirdDate="2024-07-26" thirdDate-constraint="1" expand="true"/>
+        <task id="8" name="Revisão Geral" color="#8cb6ce" meeting="false" start="2024-08-02" duration="11" complete="0" thirdDate="2024-08-02" thirdDate-constraint="1" expand="false">
+            <task id="17" name="Finalização TAP" color="#8cb6ce" meeting="false" start="2024-08-02" duration="1" complete="0" thirdDate="2024-08-02" thirdDate-constraint="0" expand="true"/>
+            <task id="15" name="EAP Final, Dicionário EAP; e Documento de Requisitos Funcionais" color="#8cb6ce" meeting="false" start="2024-08-09" duration="6" complete="0" thirdDate="2024-08-09" thirdDate-constraint="1" expand="true"/>
+            <task id="16" name="Cronograma e Plano de Trabalho" color="#8cb6ce" meeting="false" start="2024-08-09" duration="6" complete="0" thirdDate="2024-08-09" thirdDate-constraint="1" expand="true"/>
+        </task>
+        <task id="18" name="Entrega da Propsota de Projeto; e Pitch de Apresentação" color="#8cb6ce" meeting="false" start="2024-08-16" duration="6" complete="0" thirdDate="2024-08-16" thirdDate-constraint="1" expand="true"/>
+        <task id="12" name="Apresentação Final" color="#8cb6ce" meeting="false" start="2024-08-26" duration="5" complete="0" thirdDate="2024-08-26" thirdDate-constraint="1" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+</project>
