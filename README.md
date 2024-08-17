@@ -1,2 +1,5 @@
 # Project-C-Gest-o-de-Projetos
-Código em C - Projeto de extensão
+- Projeto de extensão -
+- Documentação Preliminar
+- Entregas Finais --> GITHUB 
+- Software desenvolvido na linguagem C
