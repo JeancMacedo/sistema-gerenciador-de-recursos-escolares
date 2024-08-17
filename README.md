@@ -1,4 +1,4 @@
-# Project-C-Gest-o-de-Projetos
+# Gestão de Projetos
       -- Projeto de extensão --
 - Documentação Preliminar;
 - Entregas Finais --> GITHUB; 
