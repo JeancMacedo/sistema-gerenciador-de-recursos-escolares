@@ -1,5 +1,5 @@
 # Gestão de Projetos
-      -- Projeto de extensão --
+      -- PROJETO DE EXTENSÃO --
 - Documentação Preliminar;
 - Entregas Finais --> GITHUB; 
 - Software Desenvolvido na linguagem C.
