@@ -13,5 +13,5 @@
 - Ryan Davi Oliveira de Meneses
 - Sophia Ferreira Boonen
 - Igor Modesto
-- Marlene
+- Marlene Vasconcelos Moraes de Oliveira
 
