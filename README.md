@@ -12,6 +12,4 @@
 - Rafaela Laryssa Mello Neto
 - Ryan Davi Oliveira de Meneses
 - Sophia Ferreira Boonen
-- Igor Modesto
-- Marlene
 
