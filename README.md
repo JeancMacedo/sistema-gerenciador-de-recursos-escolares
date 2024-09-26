@@ -25,6 +25,6 @@ A aplicação consiste em gerenciar a demanda e o estoque de alimentos fornecido
 - Rafaela Laryssa Mello Neto
 - Ryan Davi Oliveira de Meneses
 - Sophia Ferreira Boonen
-- Igor Modesto
+- Igor Dias Modesto
 - Marlene Vasconcelos Moraes de Oliveira
 
