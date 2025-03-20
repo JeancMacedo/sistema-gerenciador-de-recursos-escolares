@@ -1,0 +1,47 @@
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\bin\Debug\Main.exe
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\bin\Debug\Main.pdb
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\SGRE.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\Main.FrmMain.resources
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\SGRE.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\SGRE.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\Main.exe
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\Main.pdb
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\Main.FormCadastro.resources
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\Main.FormConsulta.resources
+C:\Users\Ryan\Desktop\pastaProjetocC#\Main\Main\obj\Debug\Main.FormConsultaAoTodo.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Ryan\Desktop\SGRE\Main\Main\bin\Debug\Main.exe
+C:\Users\Ryan\Desktop\SGRE\Main\Main\bin\Debug\Main.pdb
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\SGRE.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormCadastro.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormConsulta.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormConsultaAoTodo.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\SGRE.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\SGRE.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.exe
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.pdb
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormEdicao.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormInventario.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormInicio.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormConfirmacao.resources
+C:\Users\Ryan\Desktop\SGRE\Main\Main\obj\Debug\Main.FormRelatorio.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\SGRE.csproj.AssemblyReference.cache
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormCadastro.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormConfirmacao.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormConsulta.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormConsultaAoTodo.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormEdicao.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormInicio.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormInventario.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormRelatorio.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\SGRE.csproj.GenerateResource.cache
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\SGRE.csproj.CoreCompileInputs.cache
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.exe
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.pdb
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\bin\Debug\Main.exe.config
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\bin\Debug\Main.exe
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\bin\Debug\Main.pdb
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.FormLogin.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.HistoricodeMovimentacao.resources
+C:\Users\lcsmo\source\repos\JeancMacedo\sistema-gerenciador-de-recursos-escolares\programação - 1\Main\Main\obj\Debug\Main.TeladeControle.resources
